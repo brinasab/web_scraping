@@ -20,8 +20,6 @@ In the first part of the workshop, we will learn the basics of the libraries req
 Then, we will use these libraries by scraping two websites: a University of Arizona website, and the IMDb movie review website.
 
 Right-click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brinasab/web_scraping/main?filepath=webscraping_workshop.ipynb) 
-to launch and play with the workshop dynamically on MyBinder.
-
-You can also download the Jupyter notebook above ("webscraping_workshop.ipynb")
+to launch and play with the workshop dynamically on MyBinder. You can also download the Jupyter notebook contained in this repository.
 
 This workshop is licensed under a [CC-BY-4.0 2020](https://creativecommons.org/licenses/by/4.0/) to Sabrina Nardin
