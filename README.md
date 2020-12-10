@@ -22,4 +22,4 @@ Then, we will use these libraries by scraping two websites: a University of Ariz
 Right-click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brinasab/web_scraping/main?filepath=webscraping_workshop.ipynb) 
 to launch and play with the workshop dynamically on MyBinder. You can also download the Jupyter notebook contained in this repository.
 
-This workshop is licensed under a [CC-BY-4.0 2020](https://creativecommons.org/licenses/by/4.0/) to Sabrina Nardin
+This workshop is licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) by Sabrina Nardin
